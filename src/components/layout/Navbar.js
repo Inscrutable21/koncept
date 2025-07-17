@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-white shadow-sm border-b border-gray-200" style={{
-      width: '1600px',
+      width: '1440px',
       height: '129px',
       opacity: 1
     }}>
